@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/saadabdullah7">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;AI+Research+Assistant+%F0%9F%A7%A0;Python+%7C+Django+%7C+FastAPI+%7C+AI%2FML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Python+Backend+Developer+%F0%9F%9A%80;Back+End+Developer;Software+Engineer;Python+%7C+Django+%7C+Flask+%7C+REST+APIs" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">A passionate Backend Developer & AI Engineer from Pakistan 🇵🇰</h3>
+<h3 align="center">Entry-level Python Backend Developer from Rawalpindi, Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saadabdullah7&label=Profile%20views&color=10b981&style=flat" alt="Profile views" />
@@ -14,10 +14,11 @@
 
 ---
 
-- 🔭 I'm currently working as a **Backend Developer** at **Sterlings Tech, Rawalpindi**
-- 🧠 I'm also an **AI Research Assistant** — working on NLP, LLMs & intelligent systems
+- 💼 **Open to Work** — **Python Developer / Back End Developer** roles in **Rawalpindi + Islamabad** (onsite, hybrid or remote)
+- 🎓 **BS Information Technology**, University of Sargodha
+- 🔭 Past internships: **AI Intern at TechNexus**, **Junior Python Developer at FIT**, **Python Intern at Cortexis Solution Hub**
 - 🌱 I'm currently exploring **AI Agents, RAG pipelines & LLM fine-tuning**
-- 💬 Ask me about **Python, Django, FastAPI, Flask, AI/ML**
+- 💬 Ask me about **Python, Django, Django REST Framework, Flask, FastAPI, REST APIs, MySQL**
 - 🏆 My NLP-based **Resume Screening System** won the **Outstanding FYP Award**
 - 💼 I also freelance on **Fiverr** — Python automation, AI/ML models, WordPress & video editing
 - 📫 Reach me at **hellosaad777@gmail.com**
@@ -43,7 +44,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,pytorch,mysql,postgres,docker,git,linux,js,ts,html,css,tailwind,vscode,github,postman" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,mysql,postgres,docker,git,linux,js,html,css,vscode,github,postman" alt="My Skills" />
   </a>
 </p>
 
